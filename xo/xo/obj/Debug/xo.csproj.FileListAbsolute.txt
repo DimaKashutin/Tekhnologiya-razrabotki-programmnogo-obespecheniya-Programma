@@ -1,0 +1,14 @@
+D:\Lenning\Visual Studio Project\xo\xo\bin\Debug\xo.exe.config
+D:\Lenning\Visual Studio Project\xo\xo\bin\Debug\xo.exe
+D:\Lenning\Visual Studio Project\xo\xo\bin\Debug\xo.pdb
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo.csproj.AssemblyReference.cache
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\MainWindow.baml
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\MainWindow.g.cs
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\App.g.cs
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo_MarkupCompile.cache
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo.g.resources
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo.Properties.Resources.resources
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo.csproj.GenerateResource.cache
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo.csproj.CoreCompileInputs.cache
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo.exe
+D:\Lenning\Visual Studio Project\xo\xo\obj\Debug\xo.pdb
